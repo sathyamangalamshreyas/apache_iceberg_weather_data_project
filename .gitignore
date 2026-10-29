@@ -1,0 +1,5 @@
+*.venv/*
+*.pycache*
+*data/*
+video_till.txt
+*jars/*
